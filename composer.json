@@ -1,0 +1,12 @@
+{
+    "name": "vendor/al5ayaltinycms",
+    "description": "Small Mvc Php mvc.",
+    "authors": [
+        {
+            "name": "Gebriel Alkhayal",
+            "email": "g.alkhayal.h@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}

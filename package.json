@@ -1,0 +1,34 @@
+{
+  "name": "al5ayaltinycms",
+  "version": "1.1.0",
+  "description": "simple OOP mvc cms php",
+  "main": "al5ayaltinycms.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al5ayal/TinyMvcCms.git"
+  },
+  "keywords": [
+    "php",
+    "mvc",
+    "OOP"
+  ],
+  "author": "al5ayal",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/al5ayal/TinyMvcCms/issues"
+  },
+  "homepage": "https://github.com/al5ayal/TinyMvcCms#readme",
+  "devDependencies": {
+    "clean-css": "^4.2.3",
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "gulp-uglifycss": "^1.1.0",
+    "npm": "^6.14.1",
+    "update": "^0.7.4"
+  }
+}
